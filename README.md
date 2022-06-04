@@ -11,3 +11,4 @@
 9. Added method for filterBy Id
 10. Added method for SortBy dynamic input (status or id)
 11. Added method for inserting Notes, change status of jobs
+12. Also added screenshots for mysql table and postman sort query
